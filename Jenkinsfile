@@ -1,1 +1,1 @@
-print("hallo, s3bucket, hiiiiiääwwwtt")
+print("hallo, ")
